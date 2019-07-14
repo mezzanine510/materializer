@@ -33,7 +33,7 @@ class Circle {
     }
 
     update() {
-        // if (!this.insideXBounds()) {
+        // if (!this.insideXBousnds()) {
         //     this.xVelocity = -this.xVelocity;
         // }
 
